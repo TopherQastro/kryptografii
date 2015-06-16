@@ -1,0 +1,5 @@
+The intent behind this code is to use the classic Caesar shift to find if there are any words that can be shifted to form another valid word. I hypothesized that I could generate a lexicon of words that would yield two or more intelligible results from the same ciphertext, which would confuse codebreakers to which message is authentic and which is a red herring. There are very few that qualify, so this experiment yielded nothing significant to report.
+
+The numbers for letters correspond to A = 1, B = 2, etc. The spacebar, when experimenting with lines of prose rather than individual words, was assigned the number zero.
+
+The Caesar cipher might be the most familiar and easiest to break of all ciphers. Having a sort of superposition to the plaintext would have given it some effectiveness. As it stands, I recommend you never use it to conceal any information that you would actually want to keep secret.
